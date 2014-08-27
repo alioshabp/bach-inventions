@@ -3,7 +3,7 @@
 \header {
   enteredby =  "Allen Garvin"
   copyright =  "CC-BY 4.0"
-  title =   "Invention №"
+  title =   "Invention № "
   subtitle = "Arranged for Violin and Clarinet"
   opus =    "BWV "
   composer =   "Johann Sebastian Bach"
